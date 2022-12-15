@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
 	cout << "zadany clen aritPos je: " << aritmetickaPosloupnost(5, 1, 3) << endl;
-	cout << "soucet clenu je: " << soucetPosloupnosti(5, 1, 2) << endl;
+	cout << "soucet clenu je: " << soucetPosloupnosti(10, 1, 3) << endl;
 
 
 	getchar();
